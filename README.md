@@ -6,4 +6,4 @@ This project focuses on analyzing EEG (Electroencephalogram) data for various cl
 - Feature extraction (e.g., Fourier Transform, Wavelet Decomposition).
 - Visualization of EEG data for 19 channels over time.
 
-## Repository Structure
+
